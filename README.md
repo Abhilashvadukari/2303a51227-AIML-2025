@@ -12,7 +12,7 @@
 10.  [Lab 10](): introduction to python libraries numpy
 
 #AiMl-lab jupiter notebook.
-1.  [Lab 01](): introduction to python libraries numpy
+1.  [Lab 01](https://github.com/Abhilashvadukari/2303a51227-AIML-2025/blob/fbfffff14ba321091066c0e3b394599cbea49e4c/Lab1.ipynb): introduction to python libraries numpy
 2.  [Lab 02](): introduction to python libraries numpy
 3.  [Lab 03](): introduction to python libraries numpy
 4.  [Lab 04](): introduction to python libraries numpy
