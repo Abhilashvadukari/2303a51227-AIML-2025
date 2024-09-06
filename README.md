@@ -4,7 +4,7 @@
 2.  [Lab 02](): introduction to python libraries numpy
 3.  [Lab 03](): introduction to python libraries numpy
 4.  [Lab 04](): introduction to python libraries numpy
-5.  [Lab 05](): introduction to python libraries numpy
+5.  [Lab 05](https://github.com/Abhilashvadukari/2303a51227-AIML-2025/blob/6e82d8011f829cc90f046dccaf318012ad3f8081/AIML_5.pdf): introduction to python libraries numpy
 6.  [Lab 06](): introduction to python libraries numpy
 7.  [Lab 07](): introduction to python libraries numpy
 8.  [Lab 08](): introduction to python libraries numpy
