@@ -9,7 +9,7 @@
 7.  [Lab 07](https://github.com/Abhilashvadukari/2303a51227-AIML-2025/blob/b6a8d5651c1ece085c6f525b9db80f3c0877014e/lab07.ipynb): introduction to python libraries numpy
 8.  [Lab 08](https://github.com/Abhilashvadukari/2303a51227-AIML-2025/blob/main/Lab08.ipynb): introduction to python libraries numpy
 9.  [Lab 09](https://github.com/Abhilashvadukari/2303a51227-AIML-2025/blob/main/Lab09-AIML.ipynb): introduction to python libraries numpy
-10.  [Lab 10](): introduction to python libraries numpy
+10.  [Lab 10](https://github.com/Abhilashvadukari/2303a51227-AIML-2025/blob/6998a94e7bb0132026ab745f7609689b1cc6bb3c/lab10_kmeans.ipynb): introduction to python libraries numpy
 
 #AiMl-lab jupiter notebook.
 1.  [Lab 01](https://github.com/Abhilashvadukari/2303a51227-AIML-2025/blob/fbfffff14ba321091066c0e3b394599cbea49e4c/Lab1.ipynb): introduction to python libraries numpy
